@@ -1,5 +1,6 @@
 # iCharts
 
+
 # Favorite Apps to Use
 1. TikTok
 2. YouTube
@@ -20,6 +21,6 @@
 6. Newsify - Displays a map of the U.S, when the user clicks on a state it will give that state's biggest news headline of the day.
 7. ResumeHelper - Gives the user multiple options for templates to help form a resume. Tailors the resume specifically towards the desired job/college, also has a section for peer reviews. Creates both master resume and job specific resumes for the user.
 8. MemeSearcher - Keeps a record of the previous memes that you like so you can referene back to them whenever needed
-9. 
+
     
 
