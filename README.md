@@ -46,49 +46,35 @@ Discover new songs through different song charts and a discover page, by clickin
    * Upon redownloading or open, user is prompted to login or create a new account.
 * Landing page
    * The main screen where the user will spend most of their time with a list view of songs that a user can click on to lead them to a video and lyrics.
-   * ...
-* Song page
+* Media player
    * When a user clicks on a song, this is the page where the song's music video plays with lyrics underneath
 * Location based recommonded song page
     * Recycler view of top 5 songs that is chosen based off GPS location
+* Profile
+    * New activity screen where a user's profile image, age, favorite artist, and a list of favorite songs are shown
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
 * Landing page
+* Media player
 * Location based recommonded song page
-* Favorite Songs/playlist/profile
+* Profile
 
 **Flow Navigation** (Screen to Screen)
 
 * Login/register
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+   * Account creation if no account is available
+* Landing page with the list view of songs
+   * When a song is selected, it'll take the user to the song's music video and lyric page
+* Location based song page
+    * Accessible through the navigation bar by selecting the map icon. When a user hits the map it brings them to the new activity screen where the user is recommonded popular songs in their country based off of their location
+* Media player
+   * Prompted by the user selecting a song from the landing page
+* Profile
+    * Accessible through the navigation bar by selecting the profile icon
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
-### Models
-[Add table of models]
-### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
-
-
-
-
-
-
-
+<img src="WIREFRAME1.png" width=600>
+<img src="WIREFRAME2.png" width=600>
